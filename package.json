@@ -10,7 +10,6 @@
     "@nivo/bar": "^0.60.1",
     "@nivo/pie": "^0.60.0",
     "next": "latest",
-    "next-transpile-modules": "^3.2.0",
     "node-sass": "^4.14.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
